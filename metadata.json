@@ -1,0 +1,6 @@
+{
+  "name": "Medicare – Hospital Management App",
+  "description": "Mobile hospital management application connecting patients, doctors, and hospital administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
